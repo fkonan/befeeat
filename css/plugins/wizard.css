@@ -1,0 +1,22 @@
+/*font Variables*/
+/*Color Variables*/
+@import url("https://fonts.googleapis.com/css?family=Roboto:300i,400,400i,500,700,900");
+.multi_step_form {
+	display: block;
+	overflow: hidden;
+}
+.multi_step_form #msform {
+	position: relative;
+	margin: 0 auto;
+	z-index: 1;
+}
+
+.multi_step_form #msform fieldset {
+	border: 0;
+	position: relative;
+	left: 0;
+	right: 0;
+}
+.multi_step_form #msform fieldset:not(:first-of-type) {
+	display: none;
+}

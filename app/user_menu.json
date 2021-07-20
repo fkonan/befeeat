@@ -1,0 +1,6 @@
+{
+	"Iniciar sesión" : "users/login",
+	"%USERNAME%" : {
+    	"Cerrar sesión" : "users/logout"
+	}
+}

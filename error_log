@@ -1,0 +1,8 @@
+
+[07-Jan-2020 21:06:06 UTC] PHP Notice:  Trying to get property of non-object in /home/fohm2019/cluster/app/views/layouts/index.php on line 50
+[07-Jan-2020 21:06:06 UTC] PHP Notice:  Trying to get property of non-object in /home/fohm2019/cluster/app/views/layouts/index.php on line 51
+[07-Jan-2020 21:06:06 UTC] PHP Notice:  Trying to get property of non-object in /home/fohm2019/cluster/app/views/layouts/index.php on line 52
+[07-Jan-2020 21:06:06 UTC] PHP Notice:  Trying to get property of non-object in /home/fohm2019/cluster/app/views/layouts/index.php on line 52
+[07-Jan-2020 21:06:06 UTC] PHP Notice:  Undefined variable: rolName in /home/fohm2019/cluster/app/views/layouts/index.php on line 67
+[07-Jan-2020 21:06:06 UTC] PHP Notice:  Undefined variable: rolName in /home/fohm2019/cluster/app/views/layouts/index.php on line 70
+[07-Jan-2020 21:06:06 UTC] PHP Notice:  Undefined variable: location in /home/fohm2019/cluster/core/Session.php on line 61
